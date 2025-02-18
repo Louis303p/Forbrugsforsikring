@@ -1,0 +1,5 @@
+git clone https://github.com/Louis303p/Forbrugsforsikring.git
+cd Forbrugsforsikring
+git add .
+git commit -m "Added Google Login"
+git push origin main
